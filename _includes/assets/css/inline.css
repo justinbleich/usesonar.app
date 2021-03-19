@@ -15,6 +15,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: 'Syne Mono', monospace;
+	color: var(--secondary);
 }
 
 body {
@@ -177,7 +178,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
 	font-size: 1rem;
-	font-family: "Avenir", "Avenir Next", sans-serif;
+	font-family: 'Syne Mono', monospace;
 }
 
 input,
