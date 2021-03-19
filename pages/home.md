@@ -9,4 +9,6 @@ eleventyNavigation:
 ---
 ![](/static/img/produce-logo-full-colour-rgb.svg)
 
-## A premium Etherium listening experience.
+# Sonar
+
+### A premium Etherium listening experience.
