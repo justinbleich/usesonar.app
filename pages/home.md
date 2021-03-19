@@ -11,4 +11,4 @@ eleventyNavigation:
 
 # Sonar
 
-### A premium Etherium listening experience.
+### A premium Ethereum listening experience.
